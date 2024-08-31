@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed OUCHRAA</h1>
 <h3 align="center">A passionate Data Scientist & M  Machine Learning Engineer From Morocco</h3>
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0df0c564-d244-45f9-84cf-6583f62559b2_560x240.gif" align = "right" width="400" >
 <!-- <img src="https://miro.medium.com/v2/resize:fit:960/1*oJwImXIdksNBJ1ocRPNurg.gif" align="right" width="400"> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-elkhaiari&label=Profile%20views&color=0e75b6&style=flat" alt="ayoub-elkhaiari" /> </p>
-
-<p align="left"> <a href="https://twitter.com/unbegrenzt_s" target="blank"><img src="https://img.shields.io/twitter/follow/unbegrenzt_s?logo=twitter&style=for-the-badge" alt="unbegrenzt_s" /></a> </p>
 
 - 🌱 I’m currently learning Deeply about *Artificial Intelligence*
 
@@ -71,8 +67,8 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>                  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Ouchraa&show_icons=true&locale=en&layout=compact" alt="Mohamed-Ouchraa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedOuchraa&show_icons=true&locale=en&layout=compact" alt="MohamedOuchraa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ouchraa&show_icons=true&locale=en" alt="Mohamed-Ouchraa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedOuchraa&show_icons=true&locale=en" alt="MohamedOuchraa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Ouchraa&" alt="Mohamed-Ouchraa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedOuchraa&" alt="MohamedOuchraa" /></p>
