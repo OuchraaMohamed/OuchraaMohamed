@@ -24,29 +24,28 @@
 
 <div style="display: flex;">
   <div style="flex: 50%; padding-right: 10px;">
-    <h3>Programming Languages</h3>
-    <p>
+    ### Programming Languages
+
       ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
       ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
       ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
       ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
       ![DAX](https://img.shields.io/badge/dax-%230178D4.svg?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
-    </p>
 
-    <h3>Frameworks & Libraries</h3>
-    <p>
+
+   ### Frameworks & Libraries
       ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
       ![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
       ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
       ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
       ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-    </p>
 
-    <h3>Big Data</h3>
-    <p>
+
+    ### Big Data
+
       ![Spark](https://img.shields.io/badge/spark-%23F7931E.svg?style=for-the-badge&logo=apachespark&logoColor=white)&nbsp;
       ![Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;
-    </p>
+
   </div>
   <div style="flex: 50%; padding-left: 10px;">
     <h3>Computer Vision</h3>
