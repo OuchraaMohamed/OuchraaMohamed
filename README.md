@@ -5,7 +5,7 @@
 ### Advanced Machine Learning & Multimedia Intelligence Master's Student  
 📍 Casablanca, Morocco | ✉️ mohamed.ouchraa@usmba.ac.ma | [LinkedIn](https://www.linkedin.com/in/mohamedouchraa)  
 
-<img src="https://avatars.githubusercontent.com/u/your-github-profile" alt="Profile Image" width="150" height="150">
+<img src="https://avatars.githubusercontent.com/u/ouchraamohamed" alt="Profile Image" width="150" height="150">
 
 ---
 
