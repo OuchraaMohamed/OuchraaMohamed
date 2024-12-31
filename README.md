@@ -76,17 +76,14 @@ As a master's student in advanced machine learning, I am motivated by the opport
 
 ## 📚 Education <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="32px">
 
-  <picture>
-  <img align="right" src="https://www.usmba.ac.ma/~usmba2/images/logo.png" width="50px">
-</picture>
-Master (M2) in Advanced Machine Learning and Multimedia Intelligence  
-University of Sidi Mohamed Ben Abdellah | 2023 - 2025
-<picture>
-  <img align="right" src="https://icon2.cleanpng.com/20181107/vgc/kisspng-sidi-mohamed-ben-abdellah-university-mohammed-v-un-usmba-plateforme-dinsertion-et-de-suivi-des-lau-1713923803255.webp" width="50px">
-</picture>
-Bachelor's Degree in Mathematics and Computer Science (SMI)  
-University of Ibn Zohr | 2019 - 2022
+<picture> <img align="right" src="https://www.usmba.ac.ma/~usmba2/images/logo.png" width="50px"></picture>
+Master (M2) en Apprentissage Automatique Avancé et Intelligence Multimédia  
+Université Sidi Mohamed Ben Abdellah | 2023 - 2025
 
+
+<picture><img align="right" src="https://www.uiz.ac.ma/images/logo.png" width="50px"></picture>
+Licence en Mathématiques et Informatique (SMI)  
+Université Ibn Zohr | 2019 - 2022
 
 ---
 
