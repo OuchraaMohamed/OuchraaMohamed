@@ -73,18 +73,7 @@ As a master's student in advanced machine learning, I am motivated by the opport
   University of Sidi Mohamed Ben Abdellah | 2023 - 2025  
 - **Bachelor's Degree in Mathematics and Computer Science (SMI)**  
   University of Ibn Zohr | 2019 - 2022
-
-## 📚 Education <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="32px">
-
-<picture> <img align="" src="https://icon2.cleanpng.com/20181107/vgc/kisspng-si…dinsertion-et-de-suivi-des-lau-1713923803255.webp" width="50px"></picture>
-- **Master (M2) in Advanced Machine Learning and Multimedia Intelligence**  
-  University of Sidi Mohamed Ben Abdellah | 2023 - 2025  
-
-
-<picture><img align="right" src="https://banner2.cleanpng.com/20180605/fpz/aa9ksjm0q.webp" width="50px"></picture>
-- **Bachelor's Degree in Mathematics and Computer Science (SMI)**  
-  University of Ibn Zohr | 2019 - 2022
-
+  
 ---
 
 ## 🌐 Languages <img src="https://media.giphy.com/media/ZgR635wdOpBtGG49lJ/giphy.gif" width="32px">
