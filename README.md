@@ -6,6 +6,9 @@
 📍 Casablanca, Morocco | ✉️ mohamed.ouchraa@usmba.ac.ma | [LinkedIn](https://www.linkedin.com/in/mohamedouchraa)  
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/your-username/your-repo/main/ai_ml_animation.gif" width="280px"></picture>
+<picture>
+  <img align="right" src="https://giphy.com/gifs/machine-learning-xT9IgzoKnwFNmISR8I" width="280px">
+</picture>
 
 ---
 
