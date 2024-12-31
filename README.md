@@ -31,10 +31,10 @@ As a master's student in advanced machine learning, I am motivated by the opport
 ![Faster R-CNN](https://img.shields.io/badge/-Faster%20R--CNN-blue)
 
 ### Computer Vision
-![Object Detection: YOLO, Faster R-CNN]
-![Image Segmentation: Mask R-CNN]
-![Image Processing with OpenCV]
-![Image Mining & Analysis]
+![Object Detection: YOLO, Faster R-CNN](https://img.shields.io/badge/-Medical%20Images-red)
+![Image Segmentation: Mask R-CNN](https://img.shields.io/badge/-Medical%20Images-bleu)
+![Image Processing with OpenCV](https://img.shields.io/badge/-Medical%20Images-orange)
+![Image Mining & Analysis](https://img.shields.io/badge/-Medical%20Images-yellow)
 
 ### Data Science Tools
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
