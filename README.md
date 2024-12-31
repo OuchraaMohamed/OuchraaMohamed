@@ -3,7 +3,6 @@
 ![Master's Student](https://img.shields.io/badge/Master%27s%20Student-Advanced%20Machine%20Learning-brightgreen)
 
 ### Advanced Machine Learning & Multimedia Intelligence Master's Student  
-### Advanced Machine Learning & Multimedia Intelligence Master's Student  
 <a href="https://ouchraamohamed.github.io/MohamedOuchraa">
   <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="20px" alt="Website Icon" /> Website
 </a> |  
@@ -13,6 +12,7 @@
 <a href="https://www.linkedin.com/in/mohamedouchraa">
   <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="20px" alt="LinkedIn Icon" /> LinkedIn
 </a>
+
 
 <picture>
   <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNvZXM4anVpbXNmM3U4ZXk3YW5qcDZpa2RlZGhzZW94Z3M5aGp5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="280px">
