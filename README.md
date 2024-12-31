@@ -5,6 +5,7 @@
 ### Advanced Machine Learning & Multimedia Intelligence Master's Student  
 📍 Casablanca, Morocco | ✉️ mohamed.ouchraa@usmba.ac.ma | [LinkedIn](https://www.linkedin.com/in/mohamedouchraa)  
 
+
 ---
 
 ## 👋 About Me
@@ -27,6 +28,13 @@ As a master's student in advanced machine learning, I am motivated by the opport
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white)
 ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logo=darkreader&logoColor=black)
+![Faster R-CNN](https://img.shields.io/badge/-Faster%20R--CNN-blue)
+
+### Computer Vision
+- Object Detection: YOLO, Faster R-CNN
+- Image Segmentation: Mask R-CNN
+- Image Processing with OpenCV
+- Image Mining & Analysis
 
 ### Data Science Tools
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
@@ -39,15 +47,17 @@ As a master's student in advanced machine learning, I am motivated by the opport
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white)
 
+### Big Data
+![Spark](https://img.shields.io/badge/-Spark-F7931E?logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
+
 ### Development Skills
-![Web Development](https://img.shields.io/badge/-Web%20Development-orange)
-![Frontend](https://img.shields.io/badge/-Frontend-blue)
-![Backend](https://img.shields.io/badge/-Backend-red)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-brightgreen)
 
 ### Additional Skills
@@ -74,23 +84,6 @@ As a master's student in advanced machine learning, I am motivated by the opport
   University of Sidi Mohamed Ben Abdellah | 2023 - 2025  
 - **Bachelor's Degree in Mathematics and Computer Science (SMI)**  
   University of Ibn Zohr | 2019 - 2022  
-
----
-
-## 🛠️ Projects
-
-### Covid-19 Case Prediction
-Prediction of confirmed cases using **PySpark**-based models, integrating advanced algorithms like **Random Forest** and **XGBoost**. Model evaluation was performed with precise metrics.  
-[🔗 Repository Link](#)
-
-### Tweet Sentiment Analysis
-Extraction and classification of tweet sentiments using **NLTK** and **Scikit-learn**. Results are visualized with **Seaborn** and **Matplotlib**.
-
-### Geolocation App
-Development of a geolocation application based on **Neo4j** and **Flask**, managing complex relationships and geospatial queries.
-
-### Image Mining & Classification
-Exploration and extraction of image information with classification models and similarity search. **YOLO** was used for object detection.
 
 ---
 
