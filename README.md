@@ -3,7 +3,7 @@
 ![Master's Student](https://img.shields.io/badge/Master%27s%20Student-Advanced%20Machine%20Learning-brightgreen)
 
 ### Advanced Machine Learning & Multimedia Intelligence Master's Student  
-[Website](https://ouchraamohamed.github.io/MohamedOuchraa) | ✉️ mohamed.ouchraa@usmba.ac.ma | [LinkedIn](https://www.linkedin.com/in/mohamedouchraa)
+[Website](https://mohamedouchraa.netlify.app/) | ✉️ mohamed.ouchraa@usmba.ac.ma | [LinkedIn](https://www.linkedin.com/in/mohamedouchraa)
 
 
 <picture>
